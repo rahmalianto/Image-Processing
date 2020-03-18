@@ -1,0 +1,10 @@
+plot --> plotData.m
+dan jarak
+
+data ciri koin
+total --> koin.MAT
+100 --> koin100.MAT
+200 --> koin200.MAT
+500 --> koin500.MAT
+
+pencarian data koin --> coinDeka.m
